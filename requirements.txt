@@ -1,0 +1,60 @@
+# Core RAG Framework
+langchain>=0.1.0
+langchain-community>=0.0.20
+llama-index>=0.9.0
+
+# LLM Providers
+openai>=1.10.0
+anthropic>=0.8.0
+
+# Embeddings
+sentence-transformers>=2.3.0
+transformers>=4.36.0
+
+# Vector Stores
+chromadb>=0.4.22
+faiss-cpu>=1.7.4
+
+# Retrieval
+rank-bm25>=0.2.2
+
+# Re-ranking
+cross-encoder>=3.0.0
+
+# Document Processing
+pypdf2>=3.0.1
+pdfplumber>=0.10.3
+python-docx>=1.1.0
+tabula-py>=2.9.0
+pandas>=2.2.0
+openpyxl>=3.1.2
+
+# PDF Generation
+reportlab>=4.0.9
+fpdf2>=2.7.6
+
+# Text Processing
+nltk>=3.8.1
+spacy>=3.7.2
+
+# API & Web
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+streamlit>=1.31.0
+gradio>=4.16.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+tqdm>=4.66.1
+numpy>=1.26.0
+
+# Evaluation
+rouge-score>=0.1.2
+bert-score>=0.3.13
+
+# Development
+pytest>=7.4.4
+black>=24.1.1
+ipython>=8.20.0
+jupyter>=1.0.0
