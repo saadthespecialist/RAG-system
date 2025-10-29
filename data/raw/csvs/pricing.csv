@@ -1,0 +1,151 @@
+product_id,product_name,category,original_price_usd,discount_percent,sale_price_usd,promotion,valid_until,minimum_quantity,bulk_discount_available
+PHN-0001,Xiaomi Note 12,Smartphone,1000.69,5,950.66,None,2025-11-28,1,True
+TAB-0002,Apple Air,Tablet,681.58,10,613.42,New Year,2026-01-20,5,False
+TAB-0003,Samsung Tab,Tablet,814.64,0,814.64,New Year,2026-01-24,1,False
+PHN-0004,Google Plus 14,Smartphone,976.18,0,976.18,Black Friday,2025-12-18,1,False
+TAB-0005,Lenovo Air,Tablet,918.99,25,689.24,New Year,2025-11-20,2,True
+PHN-0006,OnePlus Pro 12,Smartphone,905.88,10,815.29,Holiday Sale,2025-12-02,1,False
+TAB-0007,Microsoft Pro,Tablet,667.57,5,634.19,Black Friday,2025-12-26,1,False
+TAB-0008,Samsung Tab,Tablet,1051.46,15,893.74,Black Friday,2025-11-24,5,True
+PHN-0009,OnePlus Pro 13,Smartphone,641.33,15,545.13,Clearance,2025-11-29,1,True
+PHN-0010,OnePlus Plus 12,Smartphone,1305.73,25,979.3,None,2026-01-09,1,True
+PHN-0011,OnePlus Max 12,Smartphone,755.56,25,566.67,None,2025-11-25,1,False
+PHN-0012,Google Note 13,Smartphone,1240.4,15,1054.34,Black Friday,2026-01-18,1,False
+TAB-0013,Lenovo Pro,Tablet,919.62,20,735.7,Clearance,2025-11-14,1,False
+PHN-0014,Xiaomi Ultra 13,Smartphone,1294.26,20,1035.41,Black Friday,2026-01-14,1,True
+LAP-0015,Apple ThinkPad 16,Laptop,1974.52,15,1678.34,Clearance,2025-11-10,1,True
+PHN-0016,Apple Max 15,Smartphone,1440.02,20,1152.02,None,2026-01-24,1,False
+LAP-0017,Apple VivoBook 17,Laptop,3116.5,10,2804.85,Holiday Sale,2025-12-09,2,True
+LAP-0018,Acer Elite 14,Laptop,1937.76,20,1550.21,New Year,2025-11-17,2,True
+LAP-0019,Lenovo ThinkPad 17,Laptop,1468.83,20,1175.06,Black Friday,2025-11-19,5,False
+LAP-0020,ASUS Pro 16,Laptop,1158.1,25,868.57,None,2025-12-03,1,False
+TAB-0021,Samsung Air,Tablet,1231.28,15,1046.59,Clearance,2026-01-10,1,True
+TAB-0022,Samsung Tab,Tablet,714.73,0,714.73,Holiday Sale,2025-12-15,1,True
+TAB-0023,Microsoft Tab,Tablet,1145.37,15,973.56,Holiday Sale,2026-01-24,1,False
+LAP-0024,Apple ThinkPad 15,Laptop,2139.81,20,1711.85,New Year,2026-01-03,2,False
+TAB-0025,Apple Air,Tablet,841.63,5,799.55,Black Friday,2025-12-16,1,False
+PHN-0026,Google Note 15,Smartphone,1017.95,20,814.36,Holiday Sale,2026-01-24,2,True
+TAB-0027,Lenovo Pro,Tablet,1472.22,5,1398.61,Clearance,2025-11-12,1,False
+TAB-0028,Samsung Pro,Tablet,848.14,0,848.14,None,2025-12-03,1,True
+PHN-0029,Xiaomi Plus 15,Smartphone,783.21,10,704.89,Clearance,2026-01-09,1,True
+PHN-0030,Samsung Max 12,Smartphone,842.84,10,758.56,Black Friday,2025-12-21,5,True
+LAP-0031,HP VivoBook 15,Laptop,2564.94,15,2180.2,Black Friday,2025-11-24,1,False
+LAP-0032,Acer VivoBook 14,Laptop,1463.5,0,1463.5,Black Friday,2025-11-15,1,False
+LAP-0033,Apple Pavilion 13,Laptop,1452.56,0,1452.56,Holiday Sale,2025-11-20,1,True
+LAP-0034,Dell Plus 14,Laptop,2424.39,0,2424.39,New Year,2025-11-05,2,True
+TAB-0035,Samsung Air,Tablet,464.57,20,371.66,Holiday Sale,2025-12-13,5,False
+TAB-0036,Amazon Tab,Tablet,1023.73,5,972.54,Holiday Sale,2025-11-13,2,True
+LAP-0037,Acer Plus 15,Laptop,1665.46,25,1249.1,Clearance,2025-12-17,1,True
+TAB-0038,Lenovo Surface,Tablet,579.92,10,521.93,Holiday Sale,2025-11-14,1,False
+PHN-0039,Samsung Max 12,Smartphone,1270.38,15,1079.82,None,2026-01-23,5,True
+LAP-0040,ASUS Elite 15,Laptop,1334.43,10,1200.99,Clearance,2025-12-21,1,True
+PHN-0041,Google Ultra 13,Smartphone,699.37,15,594.46,Holiday Sale,2026-01-24,1,True
+TAB-0042,Samsung Pro,Tablet,817.66,0,817.66,New Year,2026-01-20,2,True
+TAB-0043,Amazon Surface,Tablet,998.88,10,898.99,Holiday Sale,2025-12-05,1,False
+PHN-0044,Xiaomi Plus 14,Smartphone,1437.02,20,1149.62,Clearance,2025-12-03,5,False
+LAP-0045,ASUS Pavilion 14,Laptop,1941.86,25,1456.39,Black Friday,2025-12-10,1,True
+PHN-0046,Google Plus 14,Smartphone,1458.82,10,1312.94,New Year,2025-12-22,5,True
+LAP-0047,Dell ThinkPad 15,Laptop,1676.82,20,1341.46,Holiday Sale,2025-12-24,5,True
+TAB-0048,Amazon Pro,Tablet,652.42,25,489.31,None,2025-12-05,1,False
+PHN-0049,Xiaomi Ultra 13,Smartphone,1419.43,10,1277.49,Black Friday,2026-01-19,1,False
+LAP-0050,Microsoft VivoBook 16,Laptop,1240.13,25,930.1,Black Friday,2025-11-05,1,True
+PHN-0051,OnePlus Plus 14,Smartphone,946.06,0,946.06,Clearance,2026-01-03,1,False
+PHN-0052,Apple Max 13,Smartphone,779.65,15,662.7,Black Friday,2025-11-10,1,True
+PHN-0053,OnePlus Plus 13,Smartphone,833.72,5,792.03,None,2026-01-21,2,False
+TAB-0054,Microsoft Air,Tablet,899.76,0,899.76,New Year,2026-01-08,1,False
+LAP-0055,Apple VivoBook 13,Laptop,1749.13,10,1574.22,Clearance,2025-11-13,1,True
+LAP-0056,Apple VivoBook 14,Laptop,755.84,10,680.26,Clearance,2025-11-26,1,False
+TAB-0057,Microsoft Tab,Tablet,1201.12,10,1081.01,None,2025-12-12,1,True
+PHN-0058,Xiaomi Pro 13,Smartphone,1511.3,0,1511.3,Holiday Sale,2026-01-15,1,True
+LAP-0059,Dell Inspiron 17,Laptop,2092.67,10,1883.4,Black Friday,2025-11-07,5,True
+PHN-0060,Samsung Max 12,Smartphone,1677.11,20,1341.69,Black Friday,2026-01-23,5,True
+PHN-0061,Apple Pro 12,Smartphone,1468.6,0,1468.6,None,2026-01-12,5,True
+PHN-0062,OnePlus Ultra 15,Smartphone,878.29,10,790.46,New Year,2026-01-26,1,False
+PHN-0063,Google Note 13,Smartphone,1770.79,15,1505.17,None,2025-11-15,1,False
+LAP-0064,Dell Plus 16,Laptop,2109.41,5,2003.94,Black Friday,2025-12-08,1,True
+TAB-0065,Microsoft Tab,Tablet,808.44,10,727.6,New Year,2026-01-04,1,True
+PHN-0066,Samsung Pro 13,Smartphone,1020.79,25,765.59,Clearance,2025-12-17,1,False
+LAP-0067,Apple Plus 15,Laptop,1841.95,10,1657.76,Black Friday,2025-11-08,5,False
+TAB-0068,Microsoft Tab,Tablet,1087.28,15,924.19,Holiday Sale,2025-11-25,1,True
+PHN-0069,Samsung Note 15,Smartphone,1586.04,5,1506.74,New Year,2026-01-24,1,False
+PHN-0070,Google Ultra 15,Smartphone,1271.38,20,1017.1,Clearance,2025-11-08,1,True
+PHN-0071,Samsung Plus 13,Smartphone,1000.6,25,750.45,Black Friday,2025-12-13,1,True
+TAB-0072,Samsung Pro,Tablet,607.7,20,486.16,Holiday Sale,2025-11-25,2,False
+PHN-0073,OnePlus Note 12,Smartphone,1462.5,10,1316.25,Clearance,2026-01-15,5,True
+TAB-0074,Microsoft Pro,Tablet,1202.84,15,1022.41,Holiday Sale,2025-12-29,1,True
+PHN-0075,OnePlus Max 15,Smartphone,778.78,5,739.84,None,2025-11-13,1,True
+LAP-0076,Lenovo ThinkPad 15,Laptop,1453.95,20,1163.16,Black Friday,2025-11-23,5,False
+LAP-0077,Acer Elite 13,Laptop,1661.84,15,1412.56,Black Friday,2026-01-02,2,True
+LAP-0078,Dell Pro 14,Laptop,1742.15,15,1480.83,Holiday Sale,2025-11-23,1,True
+TAB-0079,Samsung Air,Tablet,961.42,25,721.06,None,2026-01-21,1,True
+TAB-0080,Lenovo Air,Tablet,869.14,5,825.68,Holiday Sale,2025-12-22,2,True
+TAB-0081,Samsung Pro,Tablet,571.93,10,514.74,New Year,2026-01-10,5,False
+TAB-0082,Apple Air,Tablet,492.17,0,492.17,Clearance,2025-12-28,5,False
+PHN-0083,Xiaomi Pro 15,Smartphone,1042.48,5,990.36,None,2026-01-20,1,True
+PHN-0084,Samsung Plus 12,Smartphone,828.29,25,621.22,New Year,2025-12-15,1,True
+PHN-0085,Google Pro 14,Smartphone,857.51,0,857.51,Clearance,2025-11-10,5,False
+TAB-0086,Samsung Surface,Tablet,835.24,20,668.19,Clearance,2026-01-17,1,True
+LAP-0087,Lenovo ThinkPad 14,Laptop,1042.33,10,938.1,New Year,2025-11-09,2,False
+LAP-0088,HP ThinkPad 14,Laptop,1116.88,0,1116.88,Clearance,2026-01-26,1,False
+LAP-0089,Apple Inspiron 16,Laptop,1144.69,10,1030.22,None,2026-01-08,1,True
+LAP-0090,Lenovo Pavilion 17,Laptop,1974.92,0,1974.92,Black Friday,2025-11-24,2,False
+TAB-0091,Lenovo Pro,Tablet,774.92,15,658.68,None,2025-11-19,1,True
+TAB-0092,Amazon Tab,Tablet,1140.5,20,912.4,New Year,2025-12-05,5,True
+LAP-0093,Lenovo Plus 14,Laptop,2474.77,15,2103.55,None,2026-01-01,5,True
+TAB-0094,Microsoft Pro,Tablet,1053.88,25,790.41,New Year,2026-01-21,1,True
+PHN-0095,Apple Pro 13,Smartphone,952.7,10,857.43,Black Friday,2025-12-30,1,True
+PHN-0096,Xiaomi Plus 15,Smartphone,1020.34,10,918.31,None,2026-01-01,1,False
+TAB-0097,Lenovo Pro,Tablet,896.41,0,896.41,Clearance,2025-11-13,1,False
+PHN-0098,OnePlus Ultra 15,Smartphone,964.03,25,723.02,New Year,2026-01-26,1,False
+LAP-0099,HP VivoBook 16,Laptop,1119.63,0,1119.63,None,2025-11-06,2,False
+LAP-0100,Apple Pavilion 16,Laptop,1046.59,20,837.27,None,2025-11-27,1,True
+TAB-0101,Samsung Air,Tablet,646.74,20,517.39,Holiday Sale,2026-01-14,5,False
+TAB-0102,Apple Air,Tablet,853.83,10,768.45,Holiday Sale,2026-01-07,2,False
+TAB-0103,Amazon Pro,Tablet,1319.66,20,1055.73,Clearance,2026-01-22,1,True
+TAB-0104,Microsoft Surface,Tablet,1101.04,5,1045.99,None,2025-11-17,5,True
+TAB-0105,Lenovo Air,Tablet,622.86,15,529.43,None,2025-11-09,1,False
+TAB-0106,Amazon Air,Tablet,755.4,10,679.86,Clearance,2026-01-09,2,False
+PHN-0107,Xiaomi Plus 15,Smartphone,925.59,25,694.19,Holiday Sale,2025-11-29,1,False
+LAP-0108,Lenovo Pro 14,Laptop,1474.11,25,1105.58,Clearance,2025-12-24,1,True
+LAP-0109,ASUS Elite 17,Laptop,2213.89,0,2213.89,Black Friday,2026-01-13,1,False
+LAP-0110,ASUS Pro 16,Laptop,810.99,0,810.99,Clearance,2025-11-10,2,False
+PHN-0111,Apple Ultra 15,Smartphone,858.69,5,815.76,Clearance,2025-12-26,1,False
+PHN-0112,Apple Pro 14,Smartphone,641.21,15,545.03,Black Friday,2025-12-17,1,False
+PHN-0113,Xiaomi Max 15,Smartphone,1109.5,20,887.6,Holiday Sale,2025-11-17,1,True
+PHN-0114,OnePlus Plus 13,Smartphone,1479.17,15,1257.29,None,2026-01-01,5,False
+TAB-0115,Lenovo Surface,Tablet,801.3,5,761.23,New Year,2025-11-10,1,False
+TAB-0116,Microsoft Tab,Tablet,1039.9,0,1039.9,Black Friday,2025-12-19,1,False
+PHN-0117,OnePlus Note 15,Smartphone,1316.4,25,987.3,None,2025-12-28,1,False
+LAP-0118,HP Plus 15,Laptop,1414.73,20,1131.78,Black Friday,2025-11-13,1,False
+TAB-0119,Lenovo Air,Tablet,723.51,0,723.51,Holiday Sale,2025-11-30,2,True
+PHN-0120,Xiaomi Note 13,Smartphone,560.34,25,420.25,Black Friday,2026-01-24,2,False
+LAP-0121,ASUS Elite 16,Laptop,1269.64,20,1015.71,New Year,2025-12-28,1,False
+TAB-0122,Microsoft Tab,Tablet,1178.24,5,1119.33,None,2025-11-18,1,False
+LAP-0123,Microsoft Pavilion 13,Laptop,1231.76,20,985.41,New Year,2025-11-30,1,False
+PHN-0124,Xiaomi Plus 13,Smartphone,800.94,20,640.75,New Year,2025-12-06,1,False
+TAB-0125,Microsoft Tab,Tablet,1272.95,5,1209.3,None,2026-01-06,1,False
+LAP-0126,HP Elite 15,Laptop,1402.68,25,1052.01,Holiday Sale,2025-11-06,1,True
+TAB-0127,Amazon Tab,Tablet,764.97,10,688.47,Clearance,2025-11-08,5,True
+LAP-0128,Microsoft VivoBook 13,Laptop,1514.01,20,1211.21,Holiday Sale,2026-01-16,5,False
+LAP-0129,Lenovo Pavilion 14,Laptop,2865.18,15,2435.4,Clearance,2025-11-22,2,True
+PHN-0130,Xiaomi Plus 14,Smartphone,1018.89,10,917.0,Clearance,2025-12-12,2,False
+LAP-0131,Lenovo VivoBook 14,Laptop,1444.91,15,1228.17,None,2025-11-23,1,True
+TAB-0132,Microsoft Tab,Tablet,1077.52,25,808.14,Black Friday,2025-11-23,2,False
+TAB-0133,Lenovo Air,Tablet,594.18,10,534.76,New Year,2026-01-10,1,True
+PHN-0134,OnePlus Pro 15,Smartphone,922.3,0,922.3,None,2025-12-31,1,False
+LAP-0135,Lenovo Inspiron 16,Laptop,1496.71,10,1347.04,None,2026-01-22,1,True
+TAB-0136,Apple Tab,Tablet,566.69,15,481.69,Black Friday,2025-12-25,5,False
+LAP-0137,Lenovo ThinkPad 14,Laptop,2282.05,25,1711.54,Black Friday,2025-12-17,2,True
+PHN-0138,Google Pro 12,Smartphone,1291.2,10,1162.08,Black Friday,2025-11-05,1,False
+TAB-0139,Amazon Surface,Tablet,850.97,15,723.32,Holiday Sale,2026-01-26,1,True
+LAP-0140,Apple ThinkPad 16,Laptop,1144.59,10,1030.13,Black Friday,2025-12-03,5,False
+TAB-0141,Apple Surface,Tablet,678.57,25,508.93,Holiday Sale,2025-11-12,1,True
+PHN-0142,Google Pro 12,Smartphone,589.02,15,500.67,Clearance,2025-11-15,5,False
+TAB-0143,Amazon Tab,Tablet,611.37,0,611.37,Black Friday,2025-11-17,1,True
+PHN-0144,Google Pro 14,Smartphone,938.72,0,938.72,None,2026-01-13,1,False
+TAB-0145,Lenovo Tab,Tablet,665.25,20,532.2,New Year,2025-12-19,1,True
+LAP-0146,Lenovo Pavilion 15,Laptop,2092.09,15,1778.28,None,2026-01-18,1,False
+PHN-0147,Xiaomi Max 14,Smartphone,689.25,15,585.86,New Year,2025-12-16,1,True
+PHN-0148,OnePlus Note 15,Smartphone,782.39,25,586.79,Clearance,2025-12-12,5,True
+TAB-0149,Microsoft Tab,Tablet,542.39,0,542.39,None,2025-12-03,2,False
+PHN-0150,Google Ultra 15,Smartphone,1266.6,20,1013.28,Holiday Sale,2025-12-02,1,False

@@ -2,6 +2,20 @@
 
 A state-of-the-art Retrieval-Augmented Generation (RAG) system designed for answering complex product queries using multi-modal data sources (PDFs, CSVs, text files) with advanced retrieval techniques.
 
+## 🚀 Live Demo
+
+The system is currently running with **ChromaDB vector storage** and **hybrid search**. Try it out:
+
+```bash
+streamlit run app.py
+```
+
+Visit `http://localhost:8501` to interact with:
+- **150 products** (laptops, smartphones, tablets) with full specifications
+- **15 FAQs** covering common customer questions
+- **Hybrid search** combining semantic understanding with keyword matching
+- **Adjustable search settings** - tune the balance between semantic and keyword search
+
 ## Features
 
 ### Advanced RAG Capabilities
@@ -25,11 +39,12 @@ A state-of-the-art Retrieval-Augmented Generation (RAG) system designed for answ
    - Hypothetical Document Embeddings (HyDE)
    - Multi-query generation for better recall
 
-4. **Hybrid Retrieval**
-   - Dense vector embeddings (sentence-transformers)
-   - Sparse BM25 keyword search
-   - Reciprocal Rank Fusion (RRF) for combining results
-   - Configurable weight balancing
+4. **Hybrid Retrieval** ✅ IMPLEMENTED
+   - **ChromaDB vector embeddings** for semantic similarity search
+   - **BM25 keyword search** for exact term matching
+   - **Weighted score fusion** combining both approaches
+   - **Configurable alpha parameter** (0.0=BM25 only, 1.0=semantic only)
+   - **Persistent storage** - vectors saved to disk for fast reloading
 
 5. **Re-ranking & Context Compression**
    - Cross-encoder re-ranking for precision
@@ -45,15 +60,14 @@ A state-of-the-art Retrieval-Augmented Generation (RAG) system designed for answ
 
 ## Tech Stack
 
-- **LLM Integration**: OpenAI GPT-4 / Anthropic Claude / Local LLMs
-- **Embeddings**: sentence-transformers (all-MiniLM-L6-v2, multilingual models)
-- **Vector Store**: ChromaDB / FAISS
-- **Retrieval**: LangChain / LlamaIndex
-- **Re-ranking**: cross-encoder/ms-marco-MiniLM-L-6-v2
-- **BM25**: rank-bm25
-- **PDF Processing**: PyPDF2, pdfplumber, tabula-py
-- **CSV/Excel**: pandas
-- **Web Interface**: Streamlit / Gradio
+- **Vector Store**: ChromaDB (persistent vector database)
+- **Embeddings**: ChromaDB DefaultEmbeddingFunction (lightweight, no PyTorch required)
+- **Keyword Search**: rank-bm25 (BM25Okapi)
+- **Hybrid Retrieval**: Custom fusion of semantic + keyword search with configurable weights
+- **PDF Processing**: ReportLab (PDF generation)
+- **CSV/Excel**: pandas (data processing)
+- **Web Interface**: Streamlit (interactive UI)
+- **Data Generation**: Faker (synthetic data)
 
 ## Project Structure
 
@@ -133,15 +147,25 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
-# Generate synthetic data
+# Generate synthetic data (if not already generated)
 python src/data_generation/generate_all.py
 
-# Build vector store
-python src/ingestion/build_index.py
-
-# Run the application
-streamlit run src/app.py
+# Run the application (vector store will be built automatically on first run)
+streamlit run app.py
 ```
+
+## Testing Semantic Search
+
+Run the test script to see how semantic search compares to keyword search:
+
+```bash
+python test_semantic_search.py
+```
+
+This will demonstrate:
+- **Semantic understanding** - queries like "affordable laptop for students" find relevant products even without exact keyword matches
+- **Keyword precision** - exact term matching with BM25
+- **Hybrid fusion** - combining both approaches for optimal results
 
 ## Usage
 

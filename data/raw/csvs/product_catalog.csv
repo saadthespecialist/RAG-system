@@ -1,0 +1,151 @@
+product_id,category,brand,model,processor,ram_gb,storage_gb,screen_size_inches,screen_resolution,camera_mp,battery_mah,5g_support,operating_system,price_usd,in_stock,rating,release_date,warranty_years,battery_hours,stylus_support,keyboard_included,graphics,weight_kg
+PHN-0001,Smartphone,Xiaomi,Xiaomi Note 12,Snapdragon 8+ Gen 1,8,512,6.1,2532x1170,200MP,4288.0,True,Android 14,1000.69,True,4.1,2025-02-27,1,,,,,
+TAB-0002,Tablet,Apple,Apple Air,MediaTek Helio G99,8,256,10.2,2732x2048,,,,Android 13,681.58,True,4.2,2025-02-13,2,9.0,False,False,,
+TAB-0003,Tablet,Samsung,Samsung Tab,MediaTek Helio G99,16,128,10.2,2048x1536,,,,Windows 11,814.64,True,4.0,2024-08-05,2,9.0,False,False,,
+PHN-0004,Smartphone,Google,Google Plus 14,Google Tensor G3,12,512,6.8,2532x1170,50MP,3895.0,False,Android 13,976.18,True,4.9,2024-12-25,1,,,,,
+TAB-0005,Tablet,Lenovo,Lenovo Air,Apple M2,8,64,10.9,2732x2048,,,,Android 13,918.99,True,4.6,2025-02-07,2,13.0,False,True,,
+PHN-0006,Smartphone,OnePlus,OnePlus Pro 12,Google Tensor G3,12,256,6.7,3088x1440,200MP,4406.0,False,iOS 17,905.88,True,4.3,2025-05-15,1,,,,,
+TAB-0007,Tablet,Microsoft,Microsoft Pro,Snapdragon 8 Gen 2,8,256,12.9,2048x1536,,,,Windows 11,667.57,True,4.2,2025-02-11,1,9.0,True,False,,
+TAB-0008,Tablet,Samsung,Samsung Tab,Apple M2,8,256,11.0,2360x1640,,,,iPadOS 17,1051.46,False,4.3,2024-11-15,1,13.0,False,True,,
+PHN-0009,Smartphone,OnePlus,OnePlus Pro 13,Apple A16 Bionic,6,128,6.1,2532x1170,50MP,5069.0,True,Android 13,641.33,True,4.7,2024-12-03,2,,,,,
+PHN-0010,Smartphone,OnePlus,OnePlus Plus 12,Apple A16 Bionic,8,1000,6.1,2778x1284,48MP,4631.0,True,Android 14,1305.73,True,4.4,2025-03-20,2,,,,,
+PHN-0011,Smartphone,OnePlus,OnePlus Max 12,Apple A16 Bionic,12,256,6.4,2532x1170,200MP,5080.0,True,iOS 17,755.56,True,4.6,2025-05-21,1,,,,,
+PHN-0012,Smartphone,Google,Google Note 13,Google Tensor G3,6,1000,6.1,3088x1440,200MP,3889.0,True,Android 13,1240.4,True,4.4,2025-07-20,2,,,,,
+TAB-0013,Tablet,Lenovo,Lenovo Pro,MediaTek Helio G99,6,512,10.9,2048x1536,,,,iPadOS 17,919.62,True,4.7,2025-05-08,1,8.0,True,False,,
+PHN-0014,Smartphone,Xiaomi,Xiaomi Ultra 13,MediaTek Dimensity 9200,8,1000,6.4,3088x1440,108MP,4131.0,True,iOS 17,1294.26,True,4.5,2025-06-13,1,,,,,
+LAP-0015,Laptop,Apple,Apple ThinkPad 16,Intel Core i9-13th Gen,4,2000,16.0,1920x1080,,,,Windows 11 Pro,1974.52,False,4.4,2025-09-01,2,18.0,,,Integrated,2.12
+PHN-0016,Smartphone,Apple,Apple Max 15,Apple A17 Pro,16,512,6.1,3088x1440,48MP,4350.0,True,Android 14,1440.02,True,4.8,2025-07-27,2,,,,,
+LAP-0017,Laptop,Apple,Apple VivoBook 17,Apple M2 Pro,64,2000,16.0,2560x1440,,,,macOS Sonoma,3116.5,True,4.9,2024-09-10,3,19.0,,,Apple GPU,2.29
+LAP-0018,Laptop,Acer,Acer Elite 14,AMD Ryzen 9 7000,8,2000,14.0,1920x1080,,,,Linux Ubuntu,1937.76,False,3.6,2025-05-10,1,21.0,,,NVIDIA RTX 3050,1.83
+LAP-0019,Laptop,Lenovo,Lenovo ThinkPad 17,Apple M2 Max,32,512,15.6,2560x1440,,,,Windows 11 Pro,1468.83,True,3.7,2024-07-24,2,21.0,,,NVIDIA GTX 1650,1.68
+LAP-0020,Laptop,ASUS,ASUS Pro 16,AMD Ryzen 5 7000,16,1000,14.0,1920x1080,,,,Windows 11,1158.1,True,3.7,2024-03-17,1,20.0,,,Apple GPU,2.27
+TAB-0021,Tablet,Samsung,Samsung Air,Apple M2,4,512,10.2,2732x2048,,,,Windows 11,1231.28,True,4.6,2025-05-01,1,11.0,True,True,,
+TAB-0022,Tablet,Samsung,Samsung Tab,Snapdragon 8 Gen 2,16,64,10.9,2732x2048,,,,iPadOS 17,714.73,True,4.0,2024-12-18,1,10.0,False,True,,
+TAB-0023,Tablet,Microsoft,Microsoft Tab,Apple M2,16,64,12.9,2732x2048,,,,Android 13,1145.37,True,4.8,2025-05-10,1,13.0,True,True,,
+LAP-0024,Laptop,Apple,Apple ThinkPad 15,Intel Core i9-13th Gen,32,2000,13.3,3840x2160,,,,Linux Ubuntu,2139.81,True,4.9,2024-01-12,2,23.0,,,AMD Radeon,1.26
+TAB-0025,Tablet,Apple,Apple Air,Snapdragon 8 Gen 2,4,512,10.2,2048x1536,,,,Windows 11,841.63,False,4.6,2025-08-03,1,10.0,False,False,,
+PHN-0026,Smartphone,Google,Google Note 15,Snapdragon 8 Gen 2,6,512,6.7,2532x1170,108MP,5086.0,True,Android 13,1017.95,True,4.6,2024-11-14,2,,,,,
+TAB-0027,Tablet,Lenovo,Lenovo Pro,Apple M2,16,512,8.3,2360x1640,,,,Android 13,1472.22,True,4.4,2024-09-18,1,8.0,True,False,,
+TAB-0028,Tablet,Samsung,Samsung Pro,MediaTek Helio G99,6,512,11.0,2048x1536,,,,Windows 11,848.14,True,4.5,2024-08-22,2,14.0,False,False,,
+PHN-0029,Smartphone,Xiaomi,Xiaomi Plus 15,MediaTek Dimensity 9200,6,256,6.8,2778x1284,48MP,3591.0,False,Android 13,783.21,True,4.8,2024-12-08,2,,,,,
+PHN-0030,Smartphone,Samsung,Samsung Max 12,Snapdragon 8 Gen 2,16,128,6.4,2532x1170,48MP,4558.0,True,Android 13,842.84,True,4.3,2024-11-10,1,,,,,
+LAP-0031,Laptop,HP,HP VivoBook 15,Apple M2 Pro,64,512,16.0,3840x2160,,,,Windows 11 Pro,2564.94,True,3.8,2024-03-06,3,11.0,,,NVIDIA RTX 4060,1.39
+LAP-0032,Laptop,Acer,Acer VivoBook 14,Apple M2 Max,4,1000,16.0,1920x1080,,,,macOS Sonoma,1463.5,True,4.8,2024-07-31,3,21.0,,,NVIDIA RTX 3050,1.7
+LAP-0033,Laptop,Apple,Apple Pavilion 13,AMD Ryzen 9 7000,8,256,15.6,3840x2160,,,,Linux Ubuntu,1452.56,False,4.6,2025-02-09,1,10.0,,,Apple GPU,2.41
+LAP-0034,Laptop,Dell,Dell Plus 14,Apple M2 Pro,4,2000,16.0,3840x2160,,,,Windows 11,2424.39,True,4.7,2024-02-17,1,16.0,,,AMD Radeon,1.26
+TAB-0035,Tablet,Samsung,Samsung Air,MediaTek Helio G99,4,128,10.9,2360x1640,,,,Android 13,464.57,True,4.1,2025-04-12,2,12.0,True,False,,
+TAB-0036,Tablet,Amazon,Amazon Tab,MediaTek Helio G99,16,512,11.0,2732x2048,,,,iPadOS 17,1023.73,True,4.1,2025-04-07,2,13.0,True,False,,
+LAP-0037,Laptop,Acer,Acer Plus 15,Apple M2 Pro,4,256,16.0,2560x1440,,,,Linux Ubuntu,1665.46,True,4.8,2024-09-26,1,15.0,,,Integrated,1.64
+TAB-0038,Tablet,Lenovo,Lenovo Surface,MediaTek Helio G99,8,64,12.9,2732x2048,,,,iPadOS 17,579.92,True,4.4,2025-03-08,2,11.0,True,True,,
+PHN-0039,Smartphone,Samsung,Samsung Max 12,Google Tensor G3,8,1000,6.4,2532x1170,48MP,3827.0,True,Android 14,1270.38,True,4.3,2025-01-19,2,,,,,
+LAP-0040,Laptop,ASUS,ASUS Elite 15,Apple M2 Max,16,512,14.0,2560x1440,,,,Windows 11 Pro,1334.43,True,4.5,2025-08-11,3,24.0,,,NVIDIA GTX 1650,1.36
+PHN-0041,Smartphone,Google,Google Ultra 13,Snapdragon 8 Gen 2,6,256,6.7,3088x1440,200MP,3652.0,False,Android 14,699.37,True,4.0,2025-09-14,2,,,,,
+TAB-0042,Tablet,Samsung,Samsung Pro,Snapdragon 8 Gen 2,6,512,8.3,2048x1536,,,,Android 13,817.66,True,4.3,2024-12-11,1,11.0,True,False,,
+TAB-0043,Tablet,Amazon,Amazon Surface,Apple M2,8,64,12.9,2732x2048,,,,Android 13,998.88,True,4.2,2025-02-16,1,10.0,False,True,,
+PHN-0044,Smartphone,Xiaomi,Xiaomi Plus 14,Google Tensor G3,12,1000,6.1,3088x1440,48MP,5162.0,True,Android 14,1437.02,True,4.9,2025-09-27,2,,,,,
+LAP-0045,Laptop,ASUS,ASUS Pavilion 14,AMD Ryzen 7 7000,64,512,15.6,2560x1440,,,,Linux Ubuntu,1941.86,True,4.3,2023-11-12,1,10.0,,,NVIDIA GTX 1650,1.97
+PHN-0046,Smartphone,Google,Google Plus 14,Apple A17 Pro,8,512,6.8,2778x1284,200MP,4918.0,True,iOS 17,1458.82,False,4.6,2024-12-16,1,,,,,
+LAP-0047,Laptop,Dell,Dell ThinkPad 15,Intel Core i7-13th Gen,4,2000,15.6,1920x1080,,,,Windows 11,1676.82,True,4.8,2025-01-21,2,13.0,,,Integrated,1.75
+TAB-0048,Tablet,Amazon,Amazon Pro,Snapdragon 8 Gen 2,8,128,11.0,2048x1536,,,,Windows 11,652.42,True,4.5,2025-07-04,1,9.0,False,True,,
+PHN-0049,Smartphone,Xiaomi,Xiaomi Ultra 13,Snapdragon 8 Gen 2,12,1000,6.7,2532x1170,200MP,5390.0,False,Android 13,1419.43,True,4.1,2025-04-10,1,,,,,
+LAP-0050,Laptop,Microsoft,Microsoft VivoBook 16,Intel Core i7-13th Gen,4,1000,14.0,1920x1080,,,,Windows 11 Pro,1240.13,True,4.1,2024-01-04,3,21.0,,,NVIDIA RTX 4060,1.93
+PHN-0051,Smartphone,OnePlus,OnePlus Plus 14,Google Tensor G3,6,512,6.7,3088x1440,108MP,3775.0,False,Android 13,946.06,True,4.7,2025-07-25,1,,,,,
+PHN-0052,Smartphone,Apple,Apple Max 13,Snapdragon 8+ Gen 1,8,128,6.8,2778x1284,200MP,4168.0,True,iOS 17,779.65,False,4.8,2025-02-05,1,,,,,
+PHN-0053,Smartphone,OnePlus,OnePlus Plus 13,Snapdragon 8 Gen 2,12,128,6.4,2778x1284,50MP,3666.0,True,Android 14,833.72,True,4.8,2025-02-21,2,,,,,
+TAB-0054,Tablet,Microsoft,Microsoft Air,MediaTek Helio G99,16,256,10.9,2048x1536,,,,Android 13,899.76,True,4.3,2024-08-07,1,9.0,False,True,,
+LAP-0055,Laptop,Apple,Apple VivoBook 13,Apple M2,8,2000,17.3,2560x1440,,,,Linux Ubuntu,1749.13,False,4.0,2025-08-10,1,11.0,,,NVIDIA RTX 3050,1.76
+LAP-0056,Laptop,Apple,Apple VivoBook 14,AMD Ryzen 5 7000,4,256,16.0,1920x1080,,,,Windows 11,755.84,True,4.0,2023-11-24,1,18.0,,,NVIDIA RTX 3050,1.3
+TAB-0057,Tablet,Microsoft,Microsoft Tab,Apple M2,6,512,12.9,2732x2048,,,,Android 13,1201.12,False,4.5,2025-08-16,1,13.0,False,False,,
+PHN-0058,Smartphone,Xiaomi,Xiaomi Pro 13,Google Tensor G3,12,1000,6.7,3088x1440,50MP,3558.0,True,iOS 17,1511.3,False,4.1,2025-09-15,1,,,,,
+LAP-0059,Laptop,Dell,Dell Inspiron 17,Apple M2 Pro,16,512,17.3,2560x1440,,,,Windows 11 Pro,2092.67,True,3.8,2024-05-08,1,10.0,,,NVIDIA RTX 3050,1.67
+PHN-0060,Smartphone,Samsung,Samsung Max 12,Apple A17 Pro,6,1000,6.8,3088x1440,108MP,4479.0,True,Android 14,1677.11,False,4.8,2025-08-13,2,,,,,
+PHN-0061,Smartphone,Apple,Apple Pro 12,Apple A17 Pro,12,512,6.8,2532x1170,108MP,5440.0,False,Android 13,1468.6,False,4.8,2025-08-30,1,,,,,
+PHN-0062,Smartphone,OnePlus,OnePlus Ultra 15,Snapdragon 8+ Gen 1,6,512,6.7,2778x1284,108MP,4337.0,False,iOS 17,878.29,True,4.1,2025-07-12,2,,,,,
+PHN-0063,Smartphone,Google,Google Note 13,Apple A17 Pro,6,1000,6.1,2532x1170,50MP,4331.0,True,Android 13,1770.79,False,4.6,2025-07-02,1,,,,,
+LAP-0064,Laptop,Dell,Dell Plus 16,AMD Ryzen 7 7000,32,2000,17.3,3840x2160,,,,macOS Sonoma,2109.41,True,4.1,2024-05-17,1,16.0,,,Apple GPU,1.66
+TAB-0065,Tablet,Microsoft,Microsoft Tab,Snapdragon 8 Gen 2,16,256,12.9,2360x1640,,,,Windows 11,808.44,True,4.7,2024-08-12,2,11.0,False,False,,
+PHN-0066,Smartphone,Samsung,Samsung Pro 13,MediaTek Dimensity 9200,6,512,6.1,3088x1440,108MP,4370.0,True,iOS 17,1020.79,True,4.6,2025-05-25,2,,,,,
+LAP-0067,Laptop,Apple,Apple Plus 15,Apple M2 Pro,4,256,15.6,1920x1080,,,,Windows 11,1841.95,True,3.8,2025-03-14,2,18.0,,,Apple GPU,2.33
+TAB-0068,Tablet,Microsoft,Microsoft Tab,Apple M2,8,256,11.0,2732x2048,,,,Windows 11,1087.28,True,4.6,2025-01-01,1,10.0,True,False,,
+PHN-0069,Smartphone,Samsung,Samsung Note 15,Snapdragon 8 Gen 2,16,1000,6.7,2778x1284,200MP,4662.0,True,Android 14,1586.04,True,4.9,2025-01-08,2,,,,,
+PHN-0070,Smartphone,Google,Google Ultra 15,Apple A16 Bionic,6,1000,6.8,2532x1170,200MP,4427.0,True,Android 13,1271.38,True,4.1,2025-04-15,1,,,,,
+PHN-0071,Smartphone,Samsung,Samsung Plus 13,Google Tensor G3,12,512,6.1,2532x1170,48MP,3541.0,True,Android 14,1000.6,True,4.9,2025-05-14,1,,,,,
+TAB-0072,Tablet,Samsung,Samsung Pro,MediaTek Helio G99,6,128,12.9,2360x1640,,,,Windows 11,607.7,True,4.1,2025-01-09,1,9.0,True,False,,
+PHN-0073,Smartphone,OnePlus,OnePlus Note 12,Google Tensor G3,16,1000,6.4,3088x1440,50MP,5228.0,False,iOS 17,1462.5,False,4.1,2025-08-10,1,,,,,
+TAB-0074,Tablet,Microsoft,Microsoft Pro,Apple M2,6,512,12.9,2732x2048,,,,iPadOS 17,1202.84,True,4.9,2025-05-31,2,10.0,True,False,,
+PHN-0075,Smartphone,OnePlus,OnePlus Max 15,MediaTek Dimensity 9200,6,256,6.1,2778x1284,108MP,3674.0,False,Android 13,778.78,True,4.6,2025-07-12,2,,,,,
+LAP-0076,Laptop,Lenovo,Lenovo ThinkPad 15,AMD Ryzen 9 7000,8,128,15.6,1920x1080,,,,Windows 11,1453.95,True,4.1,2024-06-15,3,16.0,,,Apple GPU,1.28
+LAP-0077,Laptop,Acer,Acer Elite 13,Intel Core i5-13th Gen,64,512,14.0,2560x1440,,,,Windows 11,1661.84,True,4.8,2023-12-20,3,10.0,,,AMD Radeon,2.21
+LAP-0078,Laptop,Dell,Dell Pro 14,AMD Ryzen 9 7000,4,2000,13.3,2560x1440,,,,Windows 11 Pro,1742.15,True,4.2,2024-02-23,1,23.0,,,NVIDIA RTX 4060,1.9
+TAB-0079,Tablet,Samsung,Samsung Air,Apple M2,4,256,10.2,2732x2048,,,,Windows 11,961.42,False,4.9,2025-07-01,1,11.0,True,False,,
+TAB-0080,Tablet,Lenovo,Lenovo Air,MediaTek Helio G99,8,512,10.9,2048x1536,,,,Windows 11,869.14,True,4.6,2025-06-09,1,9.0,False,False,,
+TAB-0081,Tablet,Samsung,Samsung Pro,MediaTek Helio G99,6,128,10.2,2360x1640,,,,iPadOS 17,571.93,True,4.6,2025-03-10,2,13.0,True,False,,
+TAB-0082,Tablet,Apple,Apple Air,MediaTek Helio G99,4,128,10.9,2360x1640,,,,iPadOS 17,492.17,False,4.7,2025-04-21,2,9.0,True,False,,
+PHN-0083,Smartphone,Xiaomi,Xiaomi Pro 15,MediaTek Dimensity 9200,8,512,6.1,2778x1284,50MP,5296.0,True,Android 14,1042.48,False,4.3,2025-02-20,1,,,,,
+PHN-0084,Smartphone,Samsung,Samsung Plus 12,MediaTek Dimensity 9200,16,256,6.1,2532x1170,48MP,5294.0,True,Android 13,828.29,True,4.5,2025-01-19,1,,,,,
+PHN-0085,Smartphone,Google,Google Pro 14,Google Tensor G3,16,256,6.4,3088x1440,50MP,4566.0,True,Android 14,857.51,True,4.0,2025-08-14,1,,,,,
+TAB-0086,Tablet,Samsung,Samsung Surface,Snapdragon 8 Gen 2,4,512,10.9,2360x1640,,,,Windows 11,835.24,True,4.1,2024-06-25,1,14.0,False,False,,
+LAP-0087,Laptop,Lenovo,Lenovo ThinkPad 14,Intel Core i5-13th Gen,32,128,16.0,2560x1440,,,,Windows 11,1042.33,False,4.6,2024-12-04,1,10.0,,,Apple GPU,1.94
+LAP-0088,Laptop,HP,HP ThinkPad 14,Apple M2,16,256,13.3,2560x1440,,,,Linux Ubuntu,1116.88,True,5.0,2024-09-23,3,8.0,,,AMD Radeon,2.09
+LAP-0089,Laptop,Apple,Apple Inspiron 16,AMD Ryzen 5 7000,32,512,15.6,2560x1440,,,,macOS Sonoma,1144.69,True,3.9,2023-12-19,3,10.0,,,NVIDIA RTX 4060,2.14
+LAP-0090,Laptop,Lenovo,Lenovo Pavilion 17,Apple M2 Max,32,2000,16.0,3840x2160,,,,Windows 11,1974.92,False,4.2,2024-06-11,2,13.0,,,NVIDIA RTX 3050,1.51
+TAB-0091,Tablet,Lenovo,Lenovo Pro,MediaTek Helio G99,4,512,11.0,2048x1536,,,,Android 13,774.92,False,4.5,2024-12-18,2,9.0,False,True,,
+TAB-0092,Tablet,Amazon,Amazon Tab,Apple M2,16,128,12.9,2048x1536,,,,iPadOS 17,1140.5,False,4.2,2024-10-31,1,10.0,False,False,,
+LAP-0093,Laptop,Lenovo,Lenovo Plus 14,Apple M2 Pro,64,256,17.3,1920x1080,,,,macOS Sonoma,2474.77,True,4.3,2025-03-25,1,9.0,,,Integrated,2.43
+TAB-0094,Tablet,Microsoft,Microsoft Pro,Apple M2,8,128,11.0,2360x1640,,,,Android 13,1053.88,True,4.4,2025-05-09,2,10.0,True,False,,
+PHN-0095,Smartphone,Apple,Apple Pro 13,Snapdragon 8 Gen 2,12,512,6.1,2778x1284,108MP,4317.0,True,iOS 17,952.7,True,4.9,2025-03-26,2,,,,,
+PHN-0096,Smartphone,Xiaomi,Xiaomi Plus 15,Snapdragon 8 Gen 2,8,512,6.8,2778x1284,200MP,5117.0,False,Android 13,1020.34,True,4.7,2025-07-10,1,,,,,
+TAB-0097,Tablet,Lenovo,Lenovo Pro,Apple M2,4,128,10.2,2048x1536,,,,Android 13,896.41,False,4.9,2025-02-15,1,14.0,True,False,,
+PHN-0098,Smartphone,OnePlus,OnePlus Ultra 15,MediaTek Dimensity 9200,16,256,6.4,2778x1284,108MP,4474.0,True,Android 13,964.03,False,4.1,2024-12-20,2,,,,,
+LAP-0099,Laptop,HP,HP VivoBook 16,Apple M2 Max,8,256,14.0,2560x1440,,,,Linux Ubuntu,1119.63,True,4.4,2024-05-19,1,12.0,,,NVIDIA RTX 3050,1.58
+LAP-0100,Laptop,Apple,Apple Pavilion 16,Intel Core i5-13th Gen,32,128,13.3,2560x1440,,,,macOS Sonoma,1046.59,True,3.6,2024-05-05,2,18.0,,,AMD Radeon,1.89
+TAB-0101,Tablet,Samsung,Samsung Air,MediaTek Helio G99,16,64,12.9,2048x1536,,,,Android 13,646.74,True,4.8,2025-06-23,1,12.0,True,False,,
+TAB-0102,Tablet,Apple,Apple Air,MediaTek Helio G99,6,512,12.9,2732x2048,,,,Windows 11,853.83,True,4.2,2024-10-07,2,11.0,False,False,,
+TAB-0103,Tablet,Amazon,Amazon Pro,Apple M2,16,256,10.9,2732x2048,,,,Windows 11,1319.66,True,4.6,2025-05-16,1,8.0,True,True,,
+TAB-0104,Tablet,Microsoft,Microsoft Surface,Snapdragon 8 Gen 2,16,512,8.3,2048x1536,,,,Android 13,1101.04,True,4.4,2024-09-07,1,14.0,True,False,,
+TAB-0105,Tablet,Lenovo,Lenovo Air,Snapdragon 8 Gen 2,4,256,8.3,2048x1536,,,,Windows 11,622.86,True,4.2,2025-02-21,2,8.0,True,False,,
+TAB-0106,Tablet,Amazon,Amazon Air,Snapdragon 8 Gen 2,8,256,10.2,2048x1536,,,,Windows 11,755.4,True,4.8,2024-12-27,2,14.0,False,False,,
+PHN-0107,Smartphone,Xiaomi,Xiaomi Plus 15,Apple A16 Bionic,6,512,6.7,2532x1170,108MP,4777.0,True,Android 14,925.59,False,4.3,2024-12-06,2,,,,,
+LAP-0108,Laptop,Lenovo,Lenovo Pro 14,AMD Ryzen 5 7000,16,2000,17.3,1920x1080,,,,Windows 11,1474.11,True,3.8,2024-05-14,3,19.0,,,NVIDIA GTX 1650,1.25
+LAP-0109,Laptop,ASUS,ASUS Elite 17,Intel Core i9-13th Gen,32,2000,15.6,2560x1440,,,,Windows 11 Pro,2213.89,False,4.3,2024-08-29,3,24.0,,,Apple GPU,2.21
+LAP-0110,Laptop,ASUS,ASUS Pro 16,Intel Core i5-13th Gen,4,512,13.3,3840x2160,,,,Windows 11 Pro,810.99,True,3.9,2025-02-12,2,9.0,,,NVIDIA RTX 4060,2.01
+PHN-0111,Smartphone,Apple,Apple Ultra 15,Google Tensor G3,16,256,6.7,2778x1284,108MP,5046.0,True,Android 14,858.69,False,5.0,2025-03-20,1,,,,,
+PHN-0112,Smartphone,Apple,Apple Pro 14,Apple A16 Bionic,8,128,6.1,2778x1284,108MP,4169.0,True,Android 13,641.21,True,4.4,2025-01-30,2,,,,,
+PHN-0113,Smartphone,Xiaomi,Xiaomi Max 15,Snapdragon 8+ Gen 1,16,512,6.7,3088x1440,200MP,4746.0,False,Android 13,1109.5,True,4.4,2025-05-07,2,,,,,
+PHN-0114,Smartphone,OnePlus,OnePlus Plus 13,Google Tensor G3,16,1000,6.8,3088x1440,48MP,3917.0,True,Android 13,1479.17,False,5.0,2025-01-28,2,,,,,
+TAB-0115,Tablet,Lenovo,Lenovo Surface,Snapdragon 8 Gen 2,6,512,8.3,2360x1640,,,,Windows 11,801.3,True,4.7,2024-12-17,1,10.0,False,False,,
+TAB-0116,Tablet,Microsoft,Microsoft Tab,MediaTek Helio G99,16,512,10.9,2360x1640,,,,Android 13,1039.9,True,4.2,2025-07-26,2,14.0,True,True,,
+PHN-0117,Smartphone,OnePlus,OnePlus Note 15,Apple A16 Bionic,6,1000,6.7,3088x1440,108MP,5168.0,True,iOS 17,1316.4,True,4.2,2025-09-28,1,,,,,
+LAP-0118,Laptop,HP,HP Plus 15,Apple M2 Max,16,512,15.6,2560x1440,,,,macOS Sonoma,1414.73,True,4.1,2024-12-08,2,23.0,,,Apple GPU,2.42
+TAB-0119,Tablet,Lenovo,Lenovo Air,Snapdragon 8 Gen 2,16,128,8.3,2048x1536,,,,Android 13,723.51,True,4.4,2025-04-22,1,10.0,True,False,,
+PHN-0120,Smartphone,Xiaomi,Xiaomi Note 13,Google Tensor G3,6,128,6.4,3088x1440,108MP,3942.0,True,Android 13,560.34,True,4.1,2025-08-01,1,,,,,
+LAP-0121,Laptop,ASUS,ASUS Elite 16,Apple M2,8,1000,15.6,3840x2160,,,,Linux Ubuntu,1269.64,True,5.0,2025-01-18,1,12.0,,,Apple GPU,2.36
+TAB-0122,Tablet,Microsoft,Microsoft Tab,Apple M2,4,512,10.2,2732x2048,,,,iPadOS 17,1178.24,True,4.3,2025-08-20,1,12.0,False,True,,
+LAP-0123,Laptop,Microsoft,Microsoft Pavilion 13,Apple M2 Max,4,512,15.6,3840x2160,,,,Linux Ubuntu,1231.76,True,4.9,2024-08-19,2,9.0,,,NVIDIA RTX 4060,2.05
+PHN-0124,Smartphone,Xiaomi,Xiaomi Plus 13,Apple A16 Bionic,12,128,6.7,2778x1284,200MP,3847.0,True,Android 14,800.94,False,4.8,2025-09-18,2,,,,,
+TAB-0125,Tablet,Microsoft,Microsoft Tab,Apple M2,8,512,10.9,2360x1640,,,,iPadOS 17,1272.95,False,5.0,2024-11-01,1,13.0,False,False,,
+LAP-0126,Laptop,HP,HP Elite 15,Intel Core i5-13th Gen,64,128,13.3,2560x1440,,,,macOS Sonoma,1402.68,False,4.5,2024-08-10,2,10.0,,,Apple GPU,1.63
+TAB-0127,Tablet,Amazon,Amazon Tab,Snapdragon 8 Gen 2,16,64,11.0,2360x1640,,,,Windows 11,764.97,False,4.7,2025-03-12,2,14.0,True,True,,
+LAP-0128,Laptop,Microsoft,Microsoft VivoBook 13,AMD Ryzen 7 7000,4,1000,17.3,2560x1440,,,,macOS Sonoma,1514.01,True,3.9,2024-10-08,3,14.0,,,Integrated,1.6
+LAP-0129,Laptop,Lenovo,Lenovo Pavilion 14,AMD Ryzen 9 7000,64,2000,17.3,3840x2160,,,,Windows 11,2865.18,True,4.2,2025-07-29,2,15.0,,,NVIDIA RTX 3050,1.62
+PHN-0130,Smartphone,Xiaomi,Xiaomi Plus 14,Google Tensor G3,12,512,6.1,3088x1440,50MP,5380.0,True,Android 14,1018.89,True,4.3,2025-02-24,2,,,,,
+LAP-0131,Laptop,Lenovo,Lenovo VivoBook 14,Apple M2,32,256,17.3,2560x1440,,,,macOS Sonoma,1444.91,True,3.9,2024-02-17,3,18.0,,,AMD Radeon,1.99
+TAB-0132,Tablet,Microsoft,Microsoft Tab,Apple M2,4,256,10.9,2360x1640,,,,iPadOS 17,1077.52,True,5.0,2025-04-16,2,8.0,False,True,,
+TAB-0133,Tablet,Lenovo,Lenovo Air,Snapdragon 8 Gen 2,8,64,8.3,2732x2048,,,,Android 13,594.18,True,5.0,2025-01-12,1,9.0,False,True,,
+PHN-0134,Smartphone,OnePlus,OnePlus Pro 15,Apple A16 Bionic,6,512,6.4,2778x1284,200MP,4407.0,True,Android 14,922.3,False,4.9,2025-01-02,1,,,,,
+LAP-0135,Laptop,Lenovo,Lenovo Inspiron 16,Apple M2 Max,32,256,16.0,2560x1440,,,,Windows 11 Pro,1496.71,False,4.6,2024-06-05,1,18.0,,,NVIDIA RTX 4060,1.94
+TAB-0136,Tablet,Apple,Apple Tab,Snapdragon 8 Gen 2,8,64,8.3,2360x1640,,,,Android 13,566.69,True,4.8,2024-07-03,2,14.0,False,False,,
+LAP-0137,Laptop,Lenovo,Lenovo ThinkPad 14,Apple M2 Pro,32,1000,15.6,3840x2160,,,,Windows 11 Pro,2282.05,True,3.9,2024-07-01,1,8.0,,,Integrated,1.27
+PHN-0138,Smartphone,Google,Google Pro 12,Apple A17 Pro,12,256,6.8,2532x1170,200MP,4392.0,False,iOS 17,1291.2,True,4.6,2025-04-21,2,,,,,
+TAB-0139,Tablet,Amazon,Amazon Surface,Snapdragon 8 Gen 2,4,512,8.3,2360x1640,,,,Android 13,850.97,True,4.4,2025-08-11,2,13.0,True,False,,
+LAP-0140,Laptop,Apple,Apple ThinkPad 16,AMD Ryzen 5 7000,32,512,14.0,2560x1440,,,,macOS Sonoma,1144.59,True,4.2,2025-02-26,3,20.0,,,NVIDIA GTX 1650,1.82
+TAB-0141,Tablet,Apple,Apple Surface,Snapdragon 8 Gen 2,4,256,10.9,2360x1640,,,,Windows 11,678.57,False,4.6,2025-01-30,2,13.0,False,True,,
+PHN-0142,Smartphone,Google,Google Pro 12,MediaTek Dimensity 9200,8,128,6.8,2532x1170,48MP,4722.0,True,Android 14,589.02,True,4.1,2025-03-29,2,,,,,
+TAB-0143,Tablet,Amazon,Amazon Tab,MediaTek Helio G99,6,128,10.2,2732x2048,,,,Windows 11,611.37,True,4.9,2025-01-23,1,13.0,True,False,,
+PHN-0144,Smartphone,Google,Google Pro 14,MediaTek Dimensity 9200,8,512,6.7,3088x1440,108MP,5214.0,True,iOS 17,938.72,True,4.9,2024-11-02,2,,,,,
+TAB-0145,Tablet,Lenovo,Lenovo Tab,MediaTek Helio G99,8,256,10.2,2048x1536,,,,Android 13,665.25,True,4.9,2024-08-23,1,12.0,True,False,,
+LAP-0146,Laptop,Lenovo,Lenovo Pavilion 15,AMD Ryzen 7 7000,64,256,17.3,1920x1080,,,,Linux Ubuntu,2092.09,True,4.3,2024-11-23,2,24.0,,,NVIDIA RTX 3050,1.84
+PHN-0147,Smartphone,Xiaomi,Xiaomi Max 14,Snapdragon 8 Gen 2,8,128,6.8,2778x1284,50MP,3719.0,True,Android 14,689.25,True,4.6,2025-02-25,2,,,,,
+PHN-0148,Smartphone,OnePlus,OnePlus Note 15,Apple A16 Bionic,16,128,6.7,2532x1170,200MP,5200.0,True,Android 14,782.39,True,4.5,2025-02-25,1,,,,,
+TAB-0149,Tablet,Microsoft,Microsoft Tab,Snapdragon 8 Gen 2,4,128,8.3,2360x1640,,,,Windows 11,542.39,True,4.7,2024-08-11,1,13.0,True,False,,
+PHN-0150,Smartphone,Google,Google Ultra 15,Apple A16 Bionic,6,1000,6.4,2778x1284,48MP,5106.0,True,Android 13,1266.6,True,5.0,2024-12-26,1,,,,,
